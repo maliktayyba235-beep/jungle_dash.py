@@ -1,0 +1,2 @@
+ursina
+python>=3.10
